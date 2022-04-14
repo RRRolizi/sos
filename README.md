@@ -4,5 +4,5 @@ Installing pyspark
 Mounting Google Drive  
 ’Initializing Spark‘ is in 【Read CSV using pySpark SQL】  
 【Function to delete stop words】,【Function to remove the content in brackets, especially page numbers】,【Function to remove punctuation】 provide Function   
-【The part that the two methods use in common】 contains RDDs.  
+【Candidate Phrase Identification】 contains RDDs.  
 【Function to compute the freq】 【Calculate freq(w)】are potential solutions but not implemented
